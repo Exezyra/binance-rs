@@ -6,6 +6,6 @@ import '../lib/index.css'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <AppLayout>
-    <LoginView></LoginView>
+    <LoginView><div></div></LoginView>
   </AppLayout>
 )
